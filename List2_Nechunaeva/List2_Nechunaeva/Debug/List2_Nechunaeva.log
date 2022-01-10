@@ -1,0 +1,4 @@
+﻿  List2_Nechunaeva.cpp
+C:\Users\User\Desktop\ВУЗик\2 курс 1 семестр\ПпП\List2_Nechunaeva\List2_Nechunaeva\List2_Nechunaeva.cpp(58,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\User\Desktop\ВУЗик\2 курс 1 семестр\ПпП\List2_Nechunaeva\List2_Nechunaeva\List2_Nechunaeva.cpp(109,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  List2_Nechunaeva.vcxproj -> C:\Users\User\Desktop\ВУЗик\2 курс 1 семестр\ПпП\List2_Nechunaeva\Debug\List2_Nechunaeva.exe
